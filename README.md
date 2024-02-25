@@ -15,7 +15,7 @@
 >   * O nome da variável idade é apropriado para este caso, pois indica claramente o que a variável representa.
 >
 > * Clareza nas Mensagens ao Usuário:
->   *Mensagens ao usuário poderiam ser mais descritivas para melhorar a experiência do usuário.
+>   * Mensagens ao usuário poderiam ser mais descritivas para melhorar a experiência do usuário.
 
 > [!WARNING]\
 > **Sugestões de Melhoria**:
